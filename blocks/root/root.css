@@ -1,0 +1,29 @@
+@font-face {
+    font-family: Inter;
+    src: url(../../fonts/Inter-V.ttf);
+}
+
+@font-face {
+    font-family: Inter-Bold;
+    src: url(../../fonts/Inter-Bold.otf);
+}
+
+@font-face {
+    font-family: Inter-Regular;
+    src: url(../../fonts/Inter-Regular.otf);
+}
+
+@font-face {
+    font-family: Inter-Thin;
+    src: url(../../fonts/Inter-Thin.otf);
+}
+
+@font-face {
+    font-family: Inter-Thin;
+    src: url(../../fonts/Inter-Thin.otf);
+}
+
+.root {
+    background: #2A2C2F;
+    font-family: Inter;
+}
